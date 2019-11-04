@@ -1,7 +1,7 @@
 **HotelManager**
 ---
-**Goals**
-*Xây dựng phần mền quản lý khách sạn với đây đủ các chức năng *:
+**Goals*
+- [^1] Xây dựng phần mền quản lý khách sạn với đây đủ các chức năng :
   1.Nhân viên lễ tân : Đặt phòng, checkout, in hóa đơn.
   2.Nhân viê bán hàng : Tìm phòng và đặt phòng.
   3.Quản lý : Thêm, sửa, xóa, phòng, xem báo cáo.
