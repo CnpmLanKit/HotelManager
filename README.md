@@ -1,4 +1,4 @@
-HotelManager
+**HotelManager**
 Goals
 Xây dựng phần mền quản lý khách sạn với đây đủ các chức năng :
 Nhân viên lễ tân : Đặt phòng, checkout, in hóa đơn.
